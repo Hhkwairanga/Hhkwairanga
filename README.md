@@ -41,12 +41,14 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub._
 
-<a href="https://github.com/hhkwairanga">
-<img align="center" alt="hhkwairanga's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hhkwairanga&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/hhkwairanga">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hhkwairanga&layout=compact&theme=radical" />
-</a>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhkwairanga&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhkwairanga&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="hhkwairanga's github stats" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhkwairanga&theme=dark" alt="hhkwairanga" /></p>
+<br/>
+ <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+
+> <a href="https://github.com/hhkwairanga/github-readme-activity-graph"><img alt="Hhkwairnage' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hhkwairanga&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ---
 
 [website]: https://hhkwairanga.github.io
