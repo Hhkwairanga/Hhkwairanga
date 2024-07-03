@@ -1,15 +1,15 @@
 ### Hi there, I'm Haruna Hamidu Kwairanga 👋
 
-## Final year student of ATBU, an aspiring front end developer at ALX-holberton system engineering
+## Final year student of ATBU, an aspiring front-end developer at ALX-Holberton System Engineering
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning frontend development.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on my final year project!
+- 🌱 I’m currently learning front-end development.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
-[<img align="left" alt="hhkwairanga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[<img align="left" alt="hhkwairanga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hhkwairanga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="hhkwairanga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hhkwairanga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -55,7 +55,7 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+_NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub._
 
 <a href="https://github.com/hhkwairanga">
 <img align="center" alt="hhkwairanga's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hhkwairanga&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
@@ -65,6 +65,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
+[website]: https://hhkwairanga.github.io
 [twitter]: https://twitter.com/hhkwairanga99
 [facebook]: https://www.facebook.com/haruna.kwairanga
 [instagram]: https://www.instagram.com/hhkwairanga99
