@@ -1,6 +1,6 @@
 ### Hi there, I'm Haruna Hamidu Kwairanga 👋
 
-## Final year student of ATBU, an aspiring front-end developer at ALX-Holberton System Engineering
+## Final year student of ATBU, an aspiring back-end developer at ALX-Holberton System Engineering
 
 - 🔭 I’m currently working on my final year project!
 - 🌱 I’m currently learning front-end development.
