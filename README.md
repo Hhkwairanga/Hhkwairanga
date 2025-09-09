@@ -1,9 +1,9 @@
 ### Hi there, I'm Haruna Hamidu Kwairanga 👋
 
-## Software Developer | Data & Energy Enthusiast | MSc IT for the Energy Industry (RGU) Incoming Student
+## Software Developer | Data & Energy Enthusiast | Aspiring MSc Student in IT for the Energy Industry
 
 - 🔭 I’m currently working on **faceTrack** (a biometric attendance system), the **Suspect Management System** for law enforcement, and the **Corpers & Interns Manager** built during my NYSC service at NDIC.  
-- 📊 My undergraduate research focused on the **technical skills required of auto-mechanic students in using OBD-II scan tools**, and my proposed postgraduate research is on **real-time fuel efficiency optimization using embedded systems**.  
+- 📊 My undergraduate research focused on the **technical skills required of auto-mechanic students in using OBD-II scan tools**, and I plan to extend this into postgraduate research on **real-time fuel efficiency optimization using embedded systems**.  
 - 🌱 Learning more about **Django + React** for scalable SaaS applications while continuing to grow in **Python, SQL, and data analysis**.  
 - 👯 Open to collaborating on **open-source projects** in **web development, energy IT, and digital sustainability**.  
 - 🌍 Passionate about using technology to drive impact in **energy efficiency, sustainable transport, and digital governance**.  
@@ -22,7 +22,7 @@
 ### Professional Experience
 - **Data Analyst**, **Khair Consult Ltd** *(2022 – Date)*: Analyzed bank statement PDFs to simplify audited accounts and VAT filing on TaxPro Max.  
 - **Web Scraper**, **Ahzan Tech** *(2022)*: Automated large-scale data extraction and reporting with Python.  
-- **Founder & Lead Developer**, **Sahab Technology Integrated Ltd** *(2025 – Date)*: Leading projects including **faceTrack**, **Suspect Management System**, and HR automation tools.  
+- **Founder & Lead Developer**, **Sahab Technology Integrated Ltd** *(2023 – Date)*: Leading projects including **faceTrack**, **Suspect Management System**, and HR automation tools.  
 - **Junior Technician**, **Exotic Autos Ltd** *(2020 – 2022)*: Supported automobile diagnostics and energy efficiency projects.  
 - **Internship**, **NADDC** *(2021 – 2022)*: Hands-on experience in automobile technology and policy-linked innovation.  
 
@@ -46,7 +46,7 @@
 ---
 
 ### 2025 Goals
-- Successfully begin MSc **IT for the Energy Industry** at Robert Gordon University.  
+- Begin an **MSc in IT for the Energy Industry** in the UK to strengthen my expertise in energy-focused digital innovation.  
 - Develop and deploy **faceTrack** and **Suspect Management System** into full SaaS products.  
 - Advance my proposed research on **real-time fuel efficiency optimization** using embedded systems.  
 - Expand mentoring and training for students and graduates in **Python, data analysis, and energy IT**.  
