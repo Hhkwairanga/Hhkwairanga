@@ -1,82 +1,123 @@
 ### Hi there, I'm Haruna Hamidu Kwairanga 👋
 
-## Software Developer | Data & Energy Enthusiast | Founder @ Sahab Technology Integrated Limited | Aspiring MSc Student in IT for the Energy Industry
+## Digital Innovator | Software Developer | Founder @ Sahab Technology Integrated Limited | Researcher in Digital Transformation and AI-Enabled Systems
 
-- 🚀 **Founder & Lead Developer at [Sahab Technology Integrated Limited](https://home.sahabs.tech/)** — a technology company focused on **SaaS products, HR automation, biometric systems, data solutions, and energy-driven digital innovation**.  
-- 🔭 I’m currently working on **faceTrack** (a biometric attendance system), the **Suspect Management System** for law enforcement, and the **Corpers & Interns Manager** built during my NYSC service at NDIC.  
-- 📊 My undergraduate research focused on the **technical skills required of auto-mechanic students in using OBD-II scan tools**, with plans to extend this into postgraduate research on **real-time fuel efficiency optimization using embedded systems**.  
-- 🌱 Actively building scalable **Django + React SaaS platforms**, while deepening expertise in **Python, SQL, and data analysis**.  
-- 👯 Open to collaborating on **open-source and impact-driven projects** in **web development, energy IT, and digital sustainability**.  
-- 🌍 Passionate about using technology to drive impact in **energy efficiency, sustainable transport, digital governance, and enterprise automation**.  
-- 🏆 Awards: **Best Graduating Student (First Class, B.Tech Automobile Technology Education)** and recognition by the **Muslim Students Society of Nigeria (Faculty Level)**.
+- 🚀 **Founder & CEO of [Sahab Technology Integrated Limited](https://home.sahabs.tech/)** — a Nigerian technology company focused on SaaS products, attendance management, HR automation, compliance tools, data solutions, and digital public/enterprise systems.
+- 🔭 I currently lead product and automation work across **NYSCClearance**, **FaceTrack Pro**, tax workflow automation, and enterprise reporting systems.
+- 🧠 My undergraduate research examined the **technical skills required of auto-mechanic students for using OBD-II scan tools in North-Eastern Nigeria**, which shaped my interest in digital skills, automation, data-driven systems, and AI-enabled innovation.
+- 🌱 Actively developing scalable **Django + React** platforms while deepening expertise in **Python, SQL, data analysis, automation, cloud deployment, and AI-enabled systems**.
+- 👯 Open to collaboration on impact-driven projects in **web development, digital transformation, workflow automation, public-sector systems, sustainable transport, and data-driven mobility**.
+- 🌍 Passionate about using technology to improve **institutional efficiency, digital governance, staff attendance, compliance reporting, sustainable transport, and enterprise automation**.
+- 🏆 Awards include **Prof. I. Y. Shehu Prize for Best Graduating Student**, **MSSN Best CGPA Award**, and **Gombe State Government Scholarship Award**.
 
 ---
 
 ### Current Focus Areas
-- **Python**: Back-end development, automation, data science  
-- **Web Development**: Django, React, REST APIs, MySQL  
-- **Energy IT**: Embedded systems, real-time monitoring, sustainable energy solutions  
-- **SaaS Products**: Building and scaling **faceTrack** and **NYSC Clearance Manager** under **Sahab Technology Integrated Ltd**
+
+- **Python**: Backend development, automation, data analysis, scripting, and workflow tools
+- **Web Development**: Django, React, REST APIs, PostgreSQL, JavaScript, HTML, and CSS
+- **Digital Transformation**: Attendance systems, compliance tools, clearance workflows, and enterprise reporting
+- **AI-Enabled Systems**: Practical use of automation, data, and intelligent systems to close institutional skill and process gaps
+- **SaaS Products**: Leading **NYSCClearance** and **FaceTrack Pro** under Sahab Technology Integrated Limited
 
 ---
 
 ### Professional Experience
 
-**Founder & Lead Developer**, **Sahab Technology Integrated Limited** *(2023 – Present)*  
-- Founded and leading a technology company delivering **biometric attendance systems, HR automation platforms, compliance tools, and enterprise SaaS solutions**  
-- Architect and developer of **faceTrack**, **Suspect Management System**, **NYSC Clearance Manager**, and internal automation tools  
+**Founder & CEO**, **Sahab Technology Integrated Limited** *(2025 – Present)*
 
-**Data Analyst**, **Khair Consult Ltd** *(2022 – Present)*  
-- Analyzed bank statement PDFs to simplify audited accounts and VAT filing on TaxPro Max  
+- Leading product development, deployment, and automation strategy across Sahab Technology’s client work, NYSCClearance, and FaceTrack Pro.
+- Product lead for **NYSCClearance**, a SaaS platform for corps-member onboarding, attendance, leave, queries, monthly performance clearance, QR-verified letters, reporting, and organisation-specific deployment.
+- Leading **FaceTrack Pro**, Sahab Technology’s 2026 staff-attendance product for geo-fenced clock-in, intermittent clock-in, leave, queries, staff-category rules, multi-level access, and automated clearance.
 
-**Web Scraper**, **Ahzan Tech** *(2022)*  
-- Automated large-scale data extraction and reporting using Python  
+**NYSC, Information Technology Department**, **Nigeria Deposit Insurance Corporation NDIC** *(2023 – 2024)*
 
-**Junior Technician**, **Exotic Autos Ltd** *(2020 – 2022)*  
-- Supported automobile diagnostics and energy-efficiency-related technical work  
+- Supported day-to-day IT operations and contributed to digital process improvement during NYSC service.
+- Developed a face-recognition attendance module for real-time biometric attendance logging.
+- Designed workflows for attendance analysis, leave/query processing, and automated clearance-letter generation for corps members and interns.
 
-**Intern**, **NADDC** *(2021 – 2022)*  
-- Hands-on experience in automobile technology, diagnostics, and policy-linked innovation  
+**Data Automation Project**, **FIRS TaxPro-Max Workflow** *(2023)*
+
+- Developed a Python-based scraper for extracting company tax data from the TaxPro-Max portal.
+- Distributed workloads across multiple Flask servers and generated structured Excel reports for tax analysis and compliance work.
+
+**Industrial Training**, **National Automotive Design and Development Council NADDC** *(2021)*
+
+- Completed six months of industrial training in the Industrial Infrastructure Development department.
+- Gained practical exposure to automotive-sector infrastructure, industrial development, and public-sector operations.
+
+**Teaching Practice**, **GDSS Shongo Idrisa, Gombe** *(2021)*
+
+- Prepared lesson plans, delivered classroom instruction, assessed student learning, and strengthened communication and mentoring skills.
+
+**Junior Technician Intern**, **Exotic Multi Synergy Autos Limited** *(2020)*
+
+- Assisted with vehicle inspection, routine servicing, fault diagnosis, workshop safety, and repair activities under senior technicians.
 
 ---
 
 ### Skills & Tools
 
-#### Programming Languages
-[![Python](https://img.icons8.com/color/240/000000/python.png)](https://www.python.org/)
+#### Programming and Web
 
-#### Development Tools
-[![VS Code](https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
-[![PyCharm](https://img.icons8.com/color/240/000000/pycharm.png)](https://www.jetbrains.com/pycharm/)
-[![Git](https://img.icons8.com/color/240/000000/git.png)](https://git-scm.com/)
-[![GitHub](https://img.icons8.com/ios-glyphs/240/000000/github.png)](https://github.com/)
+- Python
+- C
+- SQL
+- JavaScript
+- HTML
+- CSS
+- Django
+- React
+- REST APIs
 
-#### Operating Systems
-[![Windows](https://img.icons8.com/color/240/000000/windows-10.png)](https://www.microsoft.com/windows)
-[![Ubuntu](https://img.icons8.com/color/96/000000/ubuntu--v1.png)](https://ubuntu.com/)
+#### Data and Research
+
+- SPSS
+- Microsoft Excel
+- Python data analysis
+- Survey and interview research
+- Structured reporting
+- Data cleaning
+
+#### Cloud and Deployment
+
+- Linux
+- Nginx
+- PostgreSQL
+- API integration
+- Payment integration
+- Google Maps integration
+
+#### Domain Technologies
+
+- Face recognition
+- Geofencing
+- QR verification
+- OBD-II diagnostics
+- Process automation
+- Climate-data reporting
 
 ---
 
-### 2025 Goals
-- Begin an **MSc in IT for the Energy Industry** in the UK  
-- Deploy **faceTrack** and **Suspect Management System** as full SaaS platforms  
-- Advance research on **real-time fuel efficiency optimization** using embedded systems  
-- Expand mentoring and training in **Python, data analysis, and energy IT**
+### 2026 Goals
+
+- Advance Sahab Technology’s 2026 product work through **FaceTrack Pro**.
+- Expand **NYSCClearance** adoption among organisations managing corps members, interns, and temporary staff.
+- Deepen postgraduate preparation in **Digital Innovation, AI-enabled systems, and data-driven transformation**.
+- Continue developing practical automation tools for compliance, reporting, attendance, and public-sector workflows.
+- Contribute to impact-driven projects in digital governance, sustainable transport, and enterprise automation.
 
 ---
 
 ### Connect with me
 
-- 🌐 Website: https://home.sahabs.tech  
-- 💼 LinkedIn: https://www.linkedin.com/in/hhkwairanga  
-- 🐦 Twitter: https://twitter.com/hhkwairanga99  
-- 📸 Instagram: https://www.instagram.com/hhkwairanga99  
-- 📘 Facebook: https://www.facebook.com/haruna.kwairanga  
+- 🌐 Website: [https://home.sahabs.tech](https://home.sahabs.tech)
+- 💼 Portfolio: [https://hhkwairanga.github.io/haruna/](https://hhkwairanga.github.io/haruna/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haruna-hameed-kwairanga-a83167247](https://www.linkedin.com/in/haruna-hameed-kwairanga-a83167247)
+- 🐦 Twitter: [https://twitter.com/hhkwairanga99](https://twitter.com/hhkwairanga99)
+- 📸 Instagram: [https://www.instagram.com/hhkwairanga99](https://www.instagram.com/hhkwairanga99)
+- 📘 Facebook: [https://www.facebook.com/haruna.kwairanga](https://www.facebook.com/haruna.kwairanga)
 
 ---
 
-> _NOTE: The top languages shown below reflect GitHub commits, not actual skill levels._
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hhkwairanga&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhkwairanga&show_icons=true&count_private=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hhkwairanga&theme=dark)
+> *NOTE: The top languages shown below reflect GitHub commits, not actual skill levels.*
